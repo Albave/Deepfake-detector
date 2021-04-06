@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import TensorFlowLite
 
 @main
 struct Deepfake_detectorApp: App {
